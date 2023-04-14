@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  max-width: 50rem;
+  height: fit-content;
+  background-color: #f5f7fb;
+}
+
+.checkAnswers {
+  display: flex;
+  justify-content: center;
+}
+
+.checkAnswers button {
+  background-color: #4d5b9e;
+  color: #eaedf5;
+  padding-inline: 1rem;
+  padding-bottom: 0.8rem;
+  padding-top: 0.8rem;
+  border: 2px solid;
+  border-radius: 0.8rem;
+}
